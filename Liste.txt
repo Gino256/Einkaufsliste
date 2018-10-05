@@ -3,4 +3,6 @@ Papier
 Müllbeutel
 Mülleimer
 Seife
+Tomaten
+Orangen
 Kartoffeln
