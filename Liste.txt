@@ -2,3 +2,4 @@ Papierspender
 Papier
 Müllbeutel
 Mülleimer
+Seife
